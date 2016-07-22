@@ -1,5 +1,5 @@
 # vanishing-point
-This project simply implement the method to find the vanishing point on the road.
+This project built on the opencv simply implemented the methods to find the vanishing point on the road.
 
 
 References:
